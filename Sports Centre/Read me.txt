@@ -1,0 +1,3 @@
+Software requirements: intelliJ and JDK 16.0.1
+The saved Username and password for a customer is:(Username:Hamza,Password:aaaaaaaa)
+The saved Username and password for the manager is:(Username:Mohamed,Password:aaaaaaaa)
